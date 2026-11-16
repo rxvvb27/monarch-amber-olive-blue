@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Red Sprites",
+      "hasCanvas": false,
+      "bodyTextLen": 408,
+      "bodyTextHash": "f978f2fbdf1423020e18da5a43eddd0d1172ccdb4068f5868b173653ae7a35cb",
+      "bodyTextPrefix": "A NIGHT LECTURE · RARE LIGHTS ABOVE STORMS FIFTEEN SLIDES RED SP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Red Sprites",
+      "hasCanvas": false,
+      "bodyTextLen": 333,
+      "bodyTextHash": "3059d4998030e84a8bcbafcc891c9c3a12ec7cd0b0bd87ed0dfda867ed424451",
+      "bodyTextPrefix": "RED SPRITES ALL SLIDES 01 / 15 THE LIGHT THE SHAPES WHY RARE FIR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
